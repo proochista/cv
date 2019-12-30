@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "https://proochista.github.io/"
+baseURL = "https://proochista.github.io/cv/"
 languageCode = "en"
 title = "Proochista Ariana"
 theme = "hugo-devresume-theme"
