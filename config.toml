@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "https://proochista.github.io/cv"
+baseURL = "https://proochista.github.io/"
 languageCode = "en"
 title = "Proochista Ariana"
 theme = "hugo-devresume-theme"
@@ -12,8 +12,8 @@ publishDir = "docs"
 
 
 [params]
-    author = "CowboySmall"
-    description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
+    author = ""
+    description = ""
 
 
     primaryColor = "#002147"
