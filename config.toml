@@ -26,7 +26,7 @@ publishDir = "docs"
         enable = true
         name = "Proochista Ariana"
         tagline = "Director of MSc in International Health and Tropical Medicine, Group Head / PI, Member of congregation, Supervisor and Unit Director"
-        avatar = "avatar.png"
+        avatar = "proochista.jpg"
 
 
 
@@ -280,11 +280,6 @@ publishDir = "docs"
         [[params.information.list.items]]
         details = "2016 · Sed Fringilla"
 
-        [[params.information.list]]
-        title = "Interests"
-        details = "Climbing, Snowboarding, Photography, Travelling"
-
-
 
 
 
@@ -296,16 +291,16 @@ publishDir = "docs"
 
         [[params.social.list]]
         icon = "fab fa-github-square"
-        url = "//github.com/username"
-        title = "username"
+        url = "//github.com/proochista"
+        title = "proochista"
         [[params.social.list]]
         icon = "fab fa-linkedin"
-        url = "//linkedin.com/in/username"
-        title = "username"
+        url = "//linkedin.com/in/proochistaariana"
+        title = "proochistaariana"
         [[params.social.list]]
         icon = "fab fa-twitter-square"
-        url = "//twitter.com/username"
-        title = "@username"
+        url = "//twitter.com/intdevhealth"
+        title = "@intdevhealth"
 
 
 
