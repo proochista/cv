@@ -58,7 +58,7 @@ publishDir = "docs"
 
 
     [params.skills]
-        enable = true
+        enable = false
 
         [[params.skills.list]]
         title = "Technical"
@@ -176,7 +176,7 @@ publishDir = "docs"
 
 
     [params.languages]
-        enable = true
+        enable = false
 
         [[params.languages.list]]
         name = "English"
@@ -336,17 +336,55 @@ publishDir = "docs"
         enable = true
 
         [[params.publications.list]]
-        title = "Papers"
+        title = "Journal Articles"
         [[params.publications.list.items]]
-        details = "2018 · Lorem Ipsum"
+        details = "Zhu Jiming and Ariana P (2019) Provider Perspectives on General Practice in Henan, China: a mixed-methods study. BMJ Open (in press)"
         [[params.publications.list.items]]
-        details = "2016 · Sed Fringilla"
-
-
-
-
-
-
+        details = "Marzouk M, Kelley M, Fadhil I, Slama S, Longuere K-S, Ariana P, Carson G and Marsh V. (2019) 'If I have a cancer, it is not my fault I am a refugee': A qualitative study with expert stakeholders on cancer care management for Syrian refugees in Jordan. PLoS ONE 14(9): e0222496. https://doi.org/10.1371/journal.pone.0222496"
+        [[params.publications.list.items]]
+        details = "Haenssgen MJ, Charoenboon N, Zanello G… Ariana P (2019).  Antibiotic knowledge, attitudes and practices: new insights from cross-sectional rural health behaviour surveys in low-income and middle-income South-East Asia BMJ Open 2019;9:e028224. doi: 10.1136/bmjopen-2018-028224"
+        [[params.publications.list.items]]
+        details = "Haenssgen MJ, Charoenboon N, Zanello G, Mayxay M, Reed-Tsochas F, Jones COH, Kosaikanont R, Praphattong P, Manohan P, Lubell Y,… Ariana P (2018). Antibiotics and activity spaces: protocol of an exploratory study of behaviour, marginalisation and knowledge diffusion. BMJ Glob Health, 3 (2), pp. e000621."
+        [[params.publications.list.items]]
+        details = "Haenssgen MJ and Ariana P (2018). The place of technology in the capability approach. Oxford Development Studies.  doi: 10.1080/13600818.2017.1325456"
+        [[params.publications.list.items]]
+        details = "Wertheim HFL, Chuc NTK, Punpuing S, Khan WA, Gyapong M, Asante KP, Munguambe K, Gómez-Olivé FX, Ariana P, John-Langba J et al (2017). Community-level antibiotic access and use (ABACUS) in low- and middle-income countries: Finding targets for social interventions to improve appropriate antimicrobial use - an observational multi-centre study. Wellcome Open Res, 2 pp. 58."
+        [[params.publications.list.items]]
+        details = "Haenssgen MJ and Ariana P (2017). The social implications of technology diffusion: uncovering the unintended consequences of people’s health-related mobile phone use in rural India and China. World Development. doi: 10.1016/j.worlddev.2017.01.014"
+        [[params.publications.list.items]]
+        details = "Haenssgen MJ and Ariana P (2017). Healthcare access: a sequence-sensitive approach. Social Science & Medicine – Population Health, 3, 37-47. doi: 10.1016/j.ssmph.2016.11.008"
+        [[params.publications.list.items]]
+        details = "Radin, E, Ariana P, Broekel T and Tran TK (2016). “Analyzing demand-side efficiency in global health: an application to maternal care in Vietnam” Health policy and planning, p.czw063."
+        [[params.publications.list.items]]
+        details = "Preston, E.C., Ariana, P., Penny, M.E., Frost, M. and Plugge, E., (2015). “Prevalence of childhood overweight and obesity and associated factors in Peru” Rev Panam Salud Publica 38(6)"
+        [[params.publications.list.items]]
+        details = "Nair M, Ariana P, Webster P (2014) “Impact of mothers' employment on infant feeding and care: a qualitative study of the experiences of mothers employed though the Mahatma Gandhi National Rural Employment Guarantee Act” BMJ Open 2014:4 e004434"
+        [[params.publications.list.items]]
+        details = "Xiangshu, D., Ariana, P. and Xiang, X., (2013). “An Investigation of Chinese Rural Doctors' Job Quit Intention: Empirical Analysis of Income Satisfaction, Hospital Organization Satisfaction and Doctor-patient Relationship”. Economic Review 2, 5."
+        [[params.publications.list.items]]
+        details = "Nair M, Ariana P, Ohuma E, Gray R, De Stavola B, Webster P (2013) “Effect of the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) on malnutrition of infants in Rajasthan, India: a mixed methods study” Plos One 8(9) e75089"
+        [[params.publications.list.items]]
+        details = "Nair M, Ariana, P, Webster P (2012) “The decision to use institutions for delivery:  A study among economically deprived women in Andhra Pradesh, India” Rural and Remote Health 12:2311."
+        [[params.publications.list.items]]
+        details = "Barnett I, Ariana P, Petro S, Penny M, Plugge E, Boyden J. (2012) “Cohort Profile:  The Young Lives Study ” International Journal of Epidemiology doi: 10.1093/ije/dys082"
+        [[params.publications.list.items]]
+        details = "Ariana, P (2012) “Challenging our Understanding of Health: Indigenous perspectives from the Highlands of Chiapas, Mexico” Oxford Development Studies 40(3), 405-21."
+        [[params.publications.list.items]]
+        details = "Nair M., Webster P, Ariana P (2011) “Impact of non-health Policies on Infant Mortality through the Social Determinants Pathway” Bulletin of the World Health Organisation 89(11), 778."
+        [[params.publications.list.items]]
+        details = "Fukuda-Parr, S. and Ariana, P (2011) “Health Impact Fund–Raising Issues of Distribution, IP Rights and Alliances” Intellectual Property Watch."
+        [[params.publications.list.items]]
+        details = "McHardy K., Ariana P, Plugge E. (2011) “Public Health in Practice:  Translating Theory into Action”  Medical Education 45(11), 1142."
+        
+        [[params.publications.list]]
+        title = "Books"        
+        [[params.publications.list.items]]
+        details = "Ariana, P and Naveed, A (2009) “Health” in Deneulin S (ed) An Introduction to the Human Development and Capability Approach, Earthscan."
+        
+        [[params.publications.list]]
+        title = "Papers"        
+        [[params.publications.list.items]]
+        details = "Ariana, P (2007) “Health Inequalities in America” Background paper for American Human Development Report 2008-2009. "
 
     [params.social]
         enable = true
