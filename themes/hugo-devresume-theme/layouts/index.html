@@ -40,8 +40,16 @@
                             {{ partial "projects.html" . }}
                             {{ end }}
 
+                            {{ if .Site.Params.teaching.enable }}
+                            {{ partial "teaching.html" . }}
+                            {{ end }}
+
                             {{ if .Site.Params.information.enable }}
                             {{ partial "information.html" . }}
+                            {{ end }}
+
+                            {{ if .Site.Params.publications.enable }}
+                            {{ partial "publications.html" . }}
                             {{ end }}
 
                         </div><!--//resume-main-->

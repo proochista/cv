@@ -283,23 +283,48 @@ publishDir = "docs"
 
 
 
-    [params.projects]
+    [params.teaching]
         enable = true
 
-        [[params.projects.list]]
-        title = "Project Lorem Ipsum"
-        meta = "Open Source"
-        tagline = "You can use this section for your side projects. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+        [[params.teaching.list]]
+        title = "Medical Sciences Division Teacher Training"
+        meta = "University of Oxford"
+        tagline = "Teaching Skills Workshops"
 
-        [[params.projects.list]]
-        title = "Project Sed Fringilla"
-        meta = "Open Source"
-        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+        [[params.teaching.list]]
+        title = "Teacher Training"
+        meta = "Oxford Tropical Network"
+        tagline = "Teaching and supervision workshops delivered for participants in Kenya Medical Research Insitute, Mahidol Oxford Tropical Medicine Research Unit, Shoklo Malaria Research Unit, Oxford University Clinical Research Unit"
 
-        [[params.projects.list]]
-        title = "Project Praesent"
-        meta = "Open Source"
-        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+        [[params.teaching.list]]
+        title = "Introduction to Teaching at Oxford"
+        meta = "Oxford Learning Institute, University of Oxford"
+        tagline = "Part of induction programme for new lecturers at University of Oxford"
+
+        [[params.teaching.list]]
+        title = "International Development and Health"
+        meta = "University of Oxford"
+        tagline = "A module offered to post-graduate students in International Health and Tropical Medicine, University of Oxford"
+        
+        [[params.teaching.list]]
+        title = "Health, Environment and Development"
+        meta = "University of Oxford"
+        tagline = "A module offered to post-graduate students in International Health and Tropical Medicine and Geography, University of Oxford"        
+
+        [[params.teaching.list]]
+        title = "Social Determinants of Health and Global Burden of Disease"
+        meta = "University of Oxford"
+        tagline = "Core lecture for MSc students in International Health and Tropical Medicine, University of Oxford"        
+
+        [[params.teaching.list]]
+        title = "Poverty and Health"
+        meta = "University of Oxford"
+        tagline = "Lecture for Graduate Entry Medical Students, University of Oxford"
+
+        [[params.teaching.list]]
+        title = "International Development and Health and Research Ethics"
+        meta = "University of Oxford"
+        tagline = "Lecture for post-graduate students in International Development, University of Oxford"
 
 
 
@@ -307,17 +332,14 @@ publishDir = "docs"
 
 
 
-
-
-
-    [params.information]
+    [params.publications]
         enable = true
 
-        [[params.information.list]]
+        [[params.publications.list]]
         title = "Papers"
-        [[params.information.list.items]]
+        [[params.publications.list.items]]
         details = "2018 · Lorem Ipsum"
-        [[params.information.list.items]]
+        [[params.publications.list.items]]
         details = "2016 · Sed Fringilla"
 
 
