@@ -2,7 +2,7 @@
 
 baseURL = "https://proochista.github.io/cv/"
 languageCode = "en"
-title = "Proochista Ariana"
+title = "Proochista Ariana Résumé"
 theme = "hugo-devresume-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
